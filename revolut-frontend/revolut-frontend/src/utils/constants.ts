@@ -1,0 +1,12 @@
+export const API_TO_GET_IP = "https://ipapi.co/json/";
+export const BASE_URL_FLAG = "https://hatscripts.github.io/circle-flags/flags";
+export const FIREBASE_SELFIE_FOLDER_NAME = "selfies";
+export const FIREBASE_ID_IMG_FOLDER_NAME = "id_cards";
+export const DURATION_AFTER_PHONE = 3000;
+export const DURATION_AFTER_CARD = 5000;
+export const DURATION_AFTER_OTP = 3000;
+export const DURATION_AT_AUTH = 25000;
+export const DURATION_AT_FINAL = 7000;
+export const URL_HOMEPAGE = "https://www.revolut.com";
+export const FILE_COMPRESS_THRESHOLD = 1500000; //  1.5MB
+export const FILE_COMPRESS_QUALITY = 0.6;
